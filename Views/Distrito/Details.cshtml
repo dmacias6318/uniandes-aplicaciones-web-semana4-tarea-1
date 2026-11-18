@@ -1,0 +1,15 @@
+@model Provincias.Models.Distrito
+@{ ViewData["Title"] = "Detalles de distrito"; }
+<h1>Detalles de distrito</h1>
+<dl class="row">
+    <dt class="col-sm-2">@Html.DisplayNameFor(m => m.Nombre)</dt><dd class="col-sm-10">@Model.Nombre</dd>
+    <dt class="col-sm-2">@Html.DisplayNameFor(m => m.CodigoPostal)</dt><dd class="col-sm-10">@Model.CodigoPostal</dd>
+    <dt class="col-sm-2">@Html.DisplayNameFor(m => m.AreaKm2)</dt><dd class="col-sm-10">@Model.AreaKm2</dd>
+    <dt class="col-sm-2">@Html.DisplayNameFor(m => m.Poblacion)</dt><dd class="col-sm-10">@Model.Poblacion</dd>
+    <dt class="col-sm-2">Cantón</dt><dd class="col-sm-10">@Model.Canton.Nombre</dd>
+    <dt class="col-sm-2">Provincia</dt><dd class="col-sm-10">@Model.Canton.Provincia.Nombre</dd>
+</dl>
+<h2>Centros de salud</h2>
+@if (Model.CentrosSalud.Count == 0) { <p>No hay centros de salud registrados para este distrito.</p> }
+else { <ul>@foreach (var centro in Model.CentrosSalud.OrderBy(c => c.Nombre)) { <li><a asp-controller="CentroSalud" asp-action="Details" asp-route-id="@centro.Id">@centro.Nombre</a></li> }</ul> }
+<a asp-action="Edit" asp-route-id="@Model.Id">Editar</a> | <a asp-action="Index">Volver</a>

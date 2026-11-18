@@ -1,0 +1,13 @@
+@model Provincias.Models.CentroSalud
+@{ ViewData["Title"] = "Detalles del centro de salud"; }
+<h1>Detalles del centro de salud</h1>
+<dl class="row">
+    <dt class="col-sm-2">@Html.DisplayNameFor(m => m.Nombre)</dt><dd class="col-sm-10">@Model.Nombre</dd>
+    <dt class="col-sm-2">@Html.DisplayNameFor(m => m.Tipo)</dt><dd class="col-sm-10">@Model.Tipo</dd>
+    <dt class="col-sm-2">@Html.DisplayNameFor(m => m.Telefono)</dt><dd class="col-sm-10">@Model.Telefono</dd>
+    <dt class="col-sm-2">@Html.DisplayNameFor(m => m.Direccion)</dt><dd class="col-sm-10">@Model.Direccion</dd>
+    <dt class="col-sm-2">Distrito</dt><dd class="col-sm-10">@Model.Distrito.Nombre</dd>
+    <dt class="col-sm-2">Cantón</dt><dd class="col-sm-10">@Model.Distrito.Canton.Nombre</dd>
+    <dt class="col-sm-2">Provincia</dt><dd class="col-sm-10">@Model.Distrito.Canton.Provincia.Nombre</dd>
+</dl>
+<a asp-action="Edit" asp-route-id="@Model.Id">Editar</a> | <a asp-action="Index">Volver</a>

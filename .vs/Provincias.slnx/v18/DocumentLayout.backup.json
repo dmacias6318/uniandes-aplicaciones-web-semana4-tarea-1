@@ -1,0 +1,778 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS R7\\source\\repos\\Sexto_om27\\Provincias\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{79F49F8D-AB35-62A6-B718-5EE0B61FE1FB}|Provincias.csproj|c:\\users\\asus r7\\source\\repos\\sexto_om27\\provincias\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79F49F8D-AB35-62A6-B718-5EE0B61FE1FB}|Provincias.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79F49F8D-AB35-62A6-B718-5EE0B61FE1FB}|Provincias.csproj|c:\\users\\asus r7\\source\\repos\\sexto_om27\\provincias\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{79F49F8D-AB35-62A6-B718-5EE0B61FE1FB}|Provincias.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79F49F8D-AB35-62A6-B718-5EE0B61FE1FB}|Provincias.csproj|c:\\users\\asus r7\\source\\repos\\sexto_om27\\provincias\\controllers\\habitantecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79F49F8D-AB35-62A6-B718-5EE0B61FE1FB}|Provincias.csproj|solutionrelative:controllers\\habitantecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79F49F8D-AB35-62A6-B718-5EE0B61FE1FB}|Provincias.csproj|c:\\users\\asus r7\\source\\repos\\sexto_om27\\provincias\\views\\habitante\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{79F49F8D-AB35-62A6-B718-5EE0B61FE1FB}|Provincias.csproj|solutionrelative:views\\habitante\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79F49F8D-AB35-62A6-B718-5EE0B61FE1FB}|Provincias.csproj|c:\\users\\asus r7\\source\\repos\\sexto_om27\\provincias\\models\\habitante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79F49F8D-AB35-62A6-B718-5EE0B61FE1FB}|Provincias.csproj|solutionrelative:models\\habitante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79F49F8D-AB35-62A6-B718-5EE0B61FE1FB}|Provincias.csproj|c:\\users\\asus r7\\source\\repos\\sexto_om27\\provincias\\views\\habitante\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{79F49F8D-AB35-62A6-B718-5EE0B61FE1FB}|Provincias.csproj|solutionrelative:views\\habitante\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79F49F8D-AB35-62A6-B718-5EE0B61FE1FB}|Provincias.csproj|c:\\users\\asus r7\\source\\repos\\sexto_om27\\provincias\\models\\provincia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79F49F8D-AB35-62A6-B718-5EE0B61FE1FB}|Provincias.csproj|solutionrelative:models\\provincia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79F49F8D-AB35-62A6-B718-5EE0B61FE1FB}|Provincias.csproj|c:\\users\\asus r7\\source\\repos\\sexto_om27\\provincias\\models\\canton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79F49F8D-AB35-62A6-B718-5EE0B61FE1FB}|Provincias.csproj|solutionrelative:models\\canton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79F49F8D-AB35-62A6-B718-5EE0B61FE1FB}|Provincias.csproj|c:\\users\\asus r7\\source\\repos\\sexto_om27\\provincias\\controllers\\provinciascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79F49F8D-AB35-62A6-B718-5EE0B61FE1FB}|Provincias.csproj|solutionrelative:controllers\\provinciascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79F49F8D-AB35-62A6-B718-5EE0B61FE1FB}|Provincias.csproj|c:\\users\\asus r7\\source\\repos\\sexto_om27\\provincias\\controllers\\cantoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79F49F8D-AB35-62A6-B718-5EE0B61FE1FB}|Provincias.csproj|solutionrelative:controllers\\cantoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79F49F8D-AB35-62A6-B718-5EE0B61FE1FB}|Provincias.csproj|c:\\users\\asus r7\\source\\repos\\sexto_om27\\provincias\\views\\provincias\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{79F49F8D-AB35-62A6-B718-5EE0B61FE1FB}|Provincias.csproj|solutionrelative:views\\provincias\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79F49F8D-AB35-62A6-B718-5EE0B61FE1FB}|Provincias.csproj|c:\\users\\asus r7\\source\\repos\\sexto_om27\\provincias\\views\\provincias\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{79F49F8D-AB35-62A6-B718-5EE0B61FE1FB}|Provincias.csproj|solutionrelative:views\\provincias\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79F49F8D-AB35-62A6-B718-5EE0B61FE1FB}|Provincias.csproj|c:\\users\\asus r7\\source\\repos\\sexto_om27\\provincias\\views\\provincias\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{79F49F8D-AB35-62A6-B718-5EE0B61FE1FB}|Provincias.csproj|solutionrelative:views\\provincias\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79F49F8D-AB35-62A6-B718-5EE0B61FE1FB}|Provincias.csproj|c:\\users\\asus r7\\source\\repos\\sexto_om27\\provincias\\views\\provincias\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{79F49F8D-AB35-62A6-B718-5EE0B61FE1FB}|Provincias.csproj|solutionrelative:views\\provincias\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79F49F8D-AB35-62A6-B718-5EE0B61FE1FB}|Provincias.csproj|c:\\users\\asus r7\\source\\repos\\sexto_om27\\provincias\\views\\provincias\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{79F49F8D-AB35-62A6-B718-5EE0B61FE1FB}|Provincias.csproj|solutionrelative:views\\provincias\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79F49F8D-AB35-62A6-B718-5EE0B61FE1FB}|Provincias.csproj|c:\\users\\asus r7\\source\\repos\\sexto_om27\\provincias\\views\\canton\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{79F49F8D-AB35-62A6-B718-5EE0B61FE1FB}|Provincias.csproj|solutionrelative:views\\canton\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79F49F8D-AB35-62A6-B718-5EE0B61FE1FB}|Provincias.csproj|c:\\users\\asus r7\\source\\repos\\sexto_om27\\provincias\\views\\habitante\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{79F49F8D-AB35-62A6-B718-5EE0B61FE1FB}|Provincias.csproj|solutionrelative:views\\habitante\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79F49F8D-AB35-62A6-B718-5EE0B61FE1FB}|Provincias.csproj|c:\\users\\asus r7\\source\\repos\\sexto_om27\\provincias\\views\\habitante\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{79F49F8D-AB35-62A6-B718-5EE0B61FE1FB}|Provincias.csproj|solutionrelative:views\\habitante\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79F49F8D-AB35-62A6-B718-5EE0B61FE1FB}|Provincias.csproj|c:\\users\\asus r7\\source\\repos\\sexto_om27\\provincias\\views\\habitante\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{79F49F8D-AB35-62A6-B718-5EE0B61FE1FB}|Provincias.csproj|solutionrelative:views\\habitante\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79F49F8D-AB35-62A6-B718-5EE0B61FE1FB}|Provincias.csproj|c:\\users\\asus r7\\source\\repos\\sexto_om27\\provincias\\views\\canton\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{79F49F8D-AB35-62A6-B718-5EE0B61FE1FB}|Provincias.csproj|solutionrelative:views\\canton\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79F49F8D-AB35-62A6-B718-5EE0B61FE1FB}|Provincias.csproj|c:\\users\\asus r7\\source\\repos\\sexto_om27\\provincias\\models\\provinciasdbcntext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79F49F8D-AB35-62A6-B718-5EE0B61FE1FB}|Provincias.csproj|solutionrelative:models\\provinciasdbcntext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79F49F8D-AB35-62A6-B718-5EE0B61FE1FB}|Provincias.csproj|c:\\users\\asus r7\\source\\repos\\sexto_om27\\provincias\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79F49F8D-AB35-62A6-B718-5EE0B61FE1FB}|Provincias.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79F49F8D-AB35-62A6-B718-5EE0B61FE1FB}|Provincias.csproj|c:\\users\\asus r7\\source\\repos\\sexto_om27\\provincias\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{79F49F8D-AB35-62A6-B718-5EE0B61FE1FB}|Provincias.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79F49F8D-AB35-62A6-B718-5EE0B61FE1FB}|Provincias.csproj|c:\\users\\asus r7\\source\\repos\\sexto_om27\\provincias\\models\\distrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79F49F8D-AB35-62A6-B718-5EE0B61FE1FB}|Provincias.csproj|solutionrelative:models\\distrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79F49F8D-AB35-62A6-B718-5EE0B61FE1FB}|Provincias.csproj|c:\\users\\asus r7\\source\\repos\\sexto_om27\\provincias\\models\\centrosalud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79F49F8D-AB35-62A6-B718-5EE0B61FE1FB}|Provincias.csproj|solutionrelative:models\\centrosalud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79F49F8D-AB35-62A6-B718-5EE0B61FE1FB}|Provincias.csproj|c:\\users\\asus r7\\source\\repos\\sexto_om27\\provincias\\controllers\\centrosaludcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79F49F8D-AB35-62A6-B718-5EE0B61FE1FB}|Provincias.csproj|solutionrelative:controllers\\centrosaludcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79F49F8D-AB35-62A6-B718-5EE0B61FE1FB}|Provincias.csproj|c:\\users\\asus r7\\source\\repos\\sexto_om27\\provincias\\controllers\\distritocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79F49F8D-AB35-62A6-B718-5EE0B61FE1FB}|Provincias.csproj|solutionrelative:controllers\\distritocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79F49F8D-AB35-62A6-B718-5EE0B61FE1FB}|Provincias.csproj|c:\\users\\asus r7\\source\\repos\\sexto_om27\\provincias\\views\\distrito\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{79F49F8D-AB35-62A6-B718-5EE0B61FE1FB}|Provincias.csproj|solutionrelative:views\\distrito\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79F49F8D-AB35-62A6-B718-5EE0B61FE1FB}|Provincias.csproj|c:\\users\\asus r7\\source\\repos\\sexto_om27\\provincias\\views\\distrito\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{79F49F8D-AB35-62A6-B718-5EE0B61FE1FB}|Provincias.csproj|solutionrelative:views\\distrito\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79F49F8D-AB35-62A6-B718-5EE0B61FE1FB}|Provincias.csproj|c:\\users\\asus r7\\source\\repos\\sexto_om27\\provincias\\views\\centrosalud\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{79F49F8D-AB35-62A6-B718-5EE0B61FE1FB}|Provincias.csproj|solutionrelative:views\\centrosalud\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79F49F8D-AB35-62A6-B718-5EE0B61FE1FB}|Provincias.csproj|c:\\users\\asus r7\\source\\repos\\sexto_om27\\provincias\\views\\distrito\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{79F49F8D-AB35-62A6-B718-5EE0B61FE1FB}|Provincias.csproj|solutionrelative:views\\distrito\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79F49F8D-AB35-62A6-B718-5EE0B61FE1FB}|Provincias.csproj|c:\\users\\asus r7\\source\\repos\\sexto_om27\\provincias\\views\\centrosalud\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{79F49F8D-AB35-62A6-B718-5EE0B61FE1FB}|Provincias.csproj|solutionrelative:views\\centrosalud\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79F49F8D-AB35-62A6-B718-5EE0B61FE1FB}|Provincias.csproj|c:\\users\\asus r7\\source\\repos\\sexto_om27\\provincias\\views\\distrito\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{79F49F8D-AB35-62A6-B718-5EE0B61FE1FB}|Provincias.csproj|solutionrelative:views\\distrito\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79F49F8D-AB35-62A6-B718-5EE0B61FE1FB}|Provincias.csproj|c:\\users\\asus r7\\source\\repos\\sexto_om27\\provincias\\views\\centrosalud\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{79F49F8D-AB35-62A6-B718-5EE0B61FE1FB}|Provincias.csproj|solutionrelative:views\\centrosalud\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79F49F8D-AB35-62A6-B718-5EE0B61FE1FB}|Provincias.csproj|c:\\users\\asus r7\\source\\repos\\sexto_om27\\provincias\\views\\distrito\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{79F49F8D-AB35-62A6-B718-5EE0B61FE1FB}|Provincias.csproj|solutionrelative:views\\distrito\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79F49F8D-AB35-62A6-B718-5EE0B61FE1FB}|Provincias.csproj|c:\\users\\asus r7\\source\\repos\\sexto_om27\\provincias\\views\\centrosalud\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{79F49F8D-AB35-62A6-B718-5EE0B61FE1FB}|Provincias.csproj|solutionrelative:views\\centrosalud\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79F49F8D-AB35-62A6-B718-5EE0B61FE1FB}|Provincias.csproj|c:\\users\\asus r7\\source\\repos\\sexto_om27\\provincias\\views\\centrosalud\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{79F49F8D-AB35-62A6-B718-5EE0B61FE1FB}|Provincias.csproj|solutionrelative:views\\centrosalud\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS R7\\AppData\\Local\\Temp\\CopilotBaseline\\Deleted\\-84440540\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS R7\\AppData\\Local\\Temp\\CopilotBaseline\\Deleted\\-84440540\\Privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79F49F8D-AB35-62A6-B718-5EE0B61FE1FB}|Provincias.csproj|c:\\users\\asus r7\\source\\repos\\sexto_om27\\provincias\\views\\canton\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{79F49F8D-AB35-62A6-B718-5EE0B61FE1FB}|Provincias.csproj|solutionrelative:views\\canton\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79F49F8D-AB35-62A6-B718-5EE0B61FE1FB}|Provincias.csproj|c:\\users\\asus r7\\source\\repos\\sexto_om27\\provincias\\views\\canton\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{79F49F8D-AB35-62A6-B718-5EE0B61FE1FB}|Provincias.csproj|solutionrelative:views\\canton\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79F49F8D-AB35-62A6-B718-5EE0B61FE1FB}|Provincias.csproj|c:\\users\\asus r7\\source\\repos\\sexto_om27\\provincias\\views\\canton\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{79F49F8D-AB35-62A6-B718-5EE0B61FE1FB}|Provincias.csproj|solutionrelative:views\\canton\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS R7\\source\\repos\\Sexto_om27\\Provincias\\Views\\Canton\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Canton\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS R7\\source\\repos\\Sexto_om27\\Provincias\\Views\\Canton\\Index.cshtml",
+              "RelativeToolTip": "Views\\Canton\\Index.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-18T08:12:52.344Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS R7\\source\\repos\\Sexto_om27\\Provincias\\Views\\Canton\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Canton\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ASUS R7\\source\\repos\\Sexto_om27\\Provincias\\Views\\Canton\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Canton\\Edit.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-18T08:12:52.187Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS R7\\source\\repos\\Sexto_om27\\Provincias\\Views\\Canton\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Canton\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ASUS R7\\source\\repos\\Sexto_om27\\Provincias\\Views\\Canton\\Create.cshtml",
+              "RelativeToolTip": "Views\\Canton\\Create.cshtml",
+              "ViewState": "AgIAACMAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-18T08:12:52.032Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS R7\\source\\repos\\Sexto_om27\\Provincias\\Views\\CentroSalud\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\CentroSalud\\Details.cshtml",
+              "ToolTip": "C:\\Users\\ASUS R7\\source\\repos\\Sexto_om27\\Provincias\\Views\\CentroSalud\\Details.cshtml",
+              "RelativeToolTip": "Views\\CentroSalud\\Details.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBJwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-18T00:33:30.115Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS R7\\source\\repos\\Sexto_om27\\Provincias\\Views\\Distrito\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Distrito\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ASUS R7\\source\\repos\\Sexto_om27\\Provincias\\Views\\Distrito\\Create.cshtml",
+              "RelativeToolTip": "Views\\Distrito\\Create.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAIBJwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-18T00:33:30.065Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS R7\\source\\repos\\Sexto_om27\\Provincias\\Views\\Distrito\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Distrito\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS R7\\source\\repos\\Sexto_om27\\Provincias\\Views\\Distrito\\Index.cshtml",
+              "RelativeToolTip": "Views\\Distrito\\Index.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAIBJwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-18T00:33:29.994Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "DistritoController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS R7\\source\\repos\\Sexto_om27\\Provincias\\Controllers\\DistritoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DistritoController.cs",
+              "ToolTip": "C:\\Users\\ASUS R7\\source\\repos\\Sexto_om27\\Provincias\\Controllers\\DistritoController.cs",
+              "RelativeToolTip": "Controllers\\DistritoController.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAIBQwKgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-18T00:33:03.493Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS R7\\source\\repos\\Sexto_om27\\Provincias\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ASUS R7\\source\\repos\\Sexto_om27\\Provincias\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAASwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-18T00:25:09.074Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS R7\\source\\repos\\Sexto_om27\\Provincias\\Views\\Distrito\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Distrito\\Details.cshtml",
+              "ToolTip": "C:\\Users\\ASUS R7\\source\\repos\\Sexto_om27\\Provincias\\Views\\Distrito\\Details.cshtml",
+              "RelativeToolTip": "Views\\Distrito\\Details.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBJwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-18T00:33:30.155Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS R7\\source\\repos\\Sexto_om27\\Provincias\\Views\\CentroSalud\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\CentroSalud\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ASUS R7\\source\\repos\\Sexto_om27\\Provincias\\Views\\CentroSalud\\Edit.cshtml",
+              "RelativeToolTip": "Views\\CentroSalud\\Edit.cshtml",
+              "ViewState": "AgIAAAoAAAAAAAAAAIBJwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-18T00:33:30.24Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS R7\\source\\repos\\Sexto_om27\\Provincias\\Views\\CentroSalud\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\CentroSalud\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS R7\\source\\repos\\Sexto_om27\\Provincias\\Views\\CentroSalud\\Index.cshtml",
+              "RelativeToolTip": "Views\\CentroSalud\\Index.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAIBJwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-18T00:33:30.356Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS R7\\AppData\\Local\\Temp\\CopilotBaseline\\Deleted\\-84440540\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\CopilotBaseline\\Deleted\\-84440540\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\ASUS R7\\AppData\\Local\\Temp\\CopilotBaseline\\Deleted\\-84440540\\Privacy.cshtml",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\CopilotBaseline\\Deleted\\-84440540\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-18T00:33:39.712Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%3"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS R7\\AppData\\Local\\Temp\\CopilotBaseline\\Deleted\\-84440540\\Index.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\CopilotBaseline\\Deleted\\-84440540\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS R7\\AppData\\Local\\Temp\\CopilotBaseline\\Deleted\\-84440540\\Index.cshtml",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\CopilotBaseline\\Deleted\\-84440540\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-18T00:33:39.651Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%3"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS R7\\source\\repos\\Sexto_om27\\Provincias\\Views\\CentroSalud\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\CentroSalud\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\ASUS R7\\source\\repos\\Sexto_om27\\Provincias\\Views\\CentroSalud\\Delete.cshtml",
+              "RelativeToolTip": "Views\\CentroSalud\\Delete.cshtml",
+              "ViewState": "AgIAAAcAAAAAAAAAAIBJwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-18T00:33:30.669Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS R7\\source\\repos\\Sexto_om27\\Provincias\\Views\\CentroSalud\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\CentroSalud\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ASUS R7\\source\\repos\\Sexto_om27\\Provincias\\Views\\CentroSalud\\Create.cshtml",
+              "RelativeToolTip": "Views\\CentroSalud\\Create.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAIBJwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-18T00:33:30.456Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS R7\\source\\repos\\Sexto_om27\\Provincias\\Views\\Distrito\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Distrito\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\ASUS R7\\source\\repos\\Sexto_om27\\Provincias\\Views\\Distrito\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Distrito\\Delete.cshtml",
+              "ViewState": "AgIAAAcAAAAAAAAAAIBJwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-18T00:33:30.406Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CentroSaludController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS R7\\source\\repos\\Sexto_om27\\Provincias\\Controllers\\CentroSaludController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CentroSaludController.cs",
+              "ToolTip": "C:\\Users\\ASUS R7\\source\\repos\\Sexto_om27\\Provincias\\Controllers\\CentroSaludController.cs",
+              "RelativeToolTip": "Controllers\\CentroSaludController.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAIBQwKwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-18T00:33:03.445Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS R7\\source\\repos\\Sexto_om27\\Provincias\\Views\\Distrito\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Distrito\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ASUS R7\\source\\repos\\Sexto_om27\\Provincias\\Views\\Distrito\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Distrito\\Edit.cshtml",
+              "ViewState": "AgIAAAoAAAAAAAAAAIBJwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-18T00:33:30.288Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CentroSalud.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS R7\\source\\repos\\Sexto_om27\\Provincias\\Models\\CentroSalud.cs",
+              "RelativeDocumentMoniker": "Models\\CentroSalud.cs",
+              "ToolTip": "C:\\Users\\ASUS R7\\source\\repos\\Sexto_om27\\Provincias\\Models\\CentroSalud.cs",
+              "RelativeToolTip": "Models\\CentroSalud.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAABBwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-18T00:32:45.388Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Distrito.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS R7\\source\\repos\\Sexto_om27\\Provincias\\Models\\Distrito.cs",
+              "RelativeDocumentMoniker": "Models\\Distrito.cs",
+              "ToolTip": "C:\\Users\\ASUS R7\\source\\repos\\Sexto_om27\\Provincias\\Models\\Distrito.cs",
+              "RelativeToolTip": "Models\\Distrito.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAABBwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-18T00:32:45.307Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS R7\\source\\repos\\Sexto_om27\\Provincias\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ASUS R7\\source\\repos\\Sexto_om27\\Provincias\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAADIAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-18T00:32:35.968Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS R7\\source\\repos\\Sexto_om27\\Provincias\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ASUS R7\\source\\repos\\Sexto_om27\\Provincias\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-18T00:32:35.82Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ProvinciasDbCntext.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS R7\\source\\repos\\Sexto_om27\\Provincias\\Models\\ProvinciasDbCntext.cs",
+              "RelativeDocumentMoniker": "Models\\ProvinciasDbCntext.cs",
+              "ToolTip": "C:\\Users\\ASUS R7\\source\\repos\\Sexto_om27\\Provincias\\Models\\ProvinciasDbCntext.cs",
+              "RelativeToolTip": "Models\\ProvinciasDbCntext.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAEBUwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-18T00:32:35.587Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS R7\\source\\repos\\Sexto_om27\\Provincias\\Views\\Provincias\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Provincias\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS R7\\source\\repos\\Sexto_om27\\Provincias\\Views\\Provincias\\Index.cshtml",
+              "RelativeToolTip": "Views\\Provincias\\Index.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-18T00:16:21.307Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS R7\\source\\repos\\Sexto_om27\\Provincias\\Views\\Provincias\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Provincias\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ASUS R7\\source\\repos\\Sexto_om27\\Provincias\\Views\\Provincias\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Provincias\\Edit.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-18T00:16:21.246Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS R7\\source\\repos\\Sexto_om27\\Provincias\\Views\\Provincias\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Provincias\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ASUS R7\\source\\repos\\Sexto_om27\\Provincias\\Views\\Provincias\\Create.cshtml",
+              "RelativeToolTip": "Views\\Provincias\\Create.cshtml",
+              "ViewState": "AgIAACkAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-18T00:16:20.873Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CantonController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS R7\\source\\repos\\Sexto_om27\\Provincias\\Controllers\\CantonController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CantonController.cs",
+              "ToolTip": "C:\\Users\\ASUS R7\\source\\repos\\Sexto_om27\\Provincias\\Controllers\\CantonController.cs",
+              "RelativeToolTip": "Controllers\\CantonController.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAIBQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-18T00:15:49.666Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProvinciasController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS R7\\source\\repos\\Sexto_om27\\Provincias\\Controllers\\ProvinciasController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProvinciasController.cs",
+              "ToolTip": "C:\\Users\\ASUS R7\\source\\repos\\Sexto_om27\\Provincias\\Controllers\\ProvinciasController.cs",
+              "RelativeToolTip": "Controllers\\ProvinciasController.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAIBQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-18T00:15:49.615Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Canton.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS R7\\source\\repos\\Sexto_om27\\Provincias\\Models\\Canton.cs",
+              "RelativeDocumentMoniker": "Models\\Canton.cs",
+              "ToolTip": "C:\\Users\\ASUS R7\\source\\repos\\Sexto_om27\\Provincias\\Models\\Canton.cs",
+              "RelativeToolTip": "Models\\Canton.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAIBIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-18T00:15:17.75Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Provincia.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS R7\\source\\repos\\Sexto_om27\\Provincias\\Models\\Provincia.cs",
+              "RelativeDocumentMoniker": "Models\\Provincia.cs",
+              "ToolTip": "C:\\Users\\ASUS R7\\source\\repos\\Sexto_om27\\Provincias\\Models\\Provincia.cs",
+              "RelativeToolTip": "Models\\Provincia.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAIBIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-18T00:15:17.476Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ASUS R7\\source\\repos\\Sexto_om27\\Provincias\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\ASUS R7\\source\\repos\\Sexto_om27\\Provincias\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-17T23:50:17.378Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS R7\\source\\repos\\Sexto_om27\\Provincias\\Views\\Canton\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Canton\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\ASUS R7\\source\\repos\\Sexto_om27\\Provincias\\Views\\Canton\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Canton\\Delete.cshtml",
+              "ViewState": "AgIAABAAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-18T00:21:53.594Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS R7\\source\\repos\\Sexto_om27\\Provincias\\Views\\Habitante\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Habitante\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\ASUS R7\\source\\repos\\Sexto_om27\\Provincias\\Views\\Habitante\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Habitante\\Delete.cshtml",
+              "ViewState": "AgIAABAAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-18T00:17:16.159Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS R7\\source\\repos\\Sexto_om27\\Provincias\\Views\\Habitante\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Habitante\\Details.cshtml",
+              "ToolTip": "C:\\Users\\ASUS R7\\source\\repos\\Sexto_om27\\Provincias\\Views\\Habitante\\Details.cshtml",
+              "RelativeToolTip": "Views\\Habitante\\Details.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-18T00:17:15.603Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS R7\\source\\repos\\Sexto_om27\\Provincias\\Views\\Habitante\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Habitante\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ASUS R7\\source\\repos\\Sexto_om27\\Provincias\\Views\\Habitante\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Habitante\\Edit.cshtml",
+              "ViewState": "AgIAACAAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-18T00:17:15.446Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS R7\\source\\repos\\Sexto_om27\\Provincias\\Views\\Canton\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Canton\\Details.cshtml",
+              "ToolTip": "C:\\Users\\ASUS R7\\source\\repos\\Sexto_om27\\Provincias\\Views\\Canton\\Details.cshtml",
+              "RelativeToolTip": "Views\\Canton\\Details.cshtml",
+              "ViewState": "AgIAABAAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-18T00:16:21.493Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS R7\\source\\repos\\Sexto_om27\\Provincias\\Views\\Provincias\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Provincias\\Details.cshtml",
+              "ToolTip": "C:\\Users\\ASUS R7\\source\\repos\\Sexto_om27\\Provincias\\Views\\Provincias\\Details.cshtml",
+              "RelativeToolTip": "Views\\Provincias\\Details.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-18T00:16:21.449Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS R7\\source\\repos\\Sexto_om27\\Provincias\\Views\\Provincias\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Provincias\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\ASUS R7\\source\\repos\\Sexto_om27\\Provincias\\Views\\Provincias\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Provincias\\Delete.cshtml",
+              "ViewState": "AgIAAC4AAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-18T00:16:21.396Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS R7\\source\\repos\\Sexto_om27\\Provincias\\Views\\Habitante\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Habitante\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS R7\\source\\repos\\Sexto_om27\\Provincias\\Views\\Habitante\\Index.cshtml",
+              "RelativeToolTip": "Views\\Habitante\\Index.cshtml",
+              "ViewState": "AgIAAA0AAAAAAAAAAIBJwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-13T01:27:08.356Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Habitante.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS R7\\source\\repos\\Sexto_om27\\Provincias\\Models\\Habitante.cs",
+              "RelativeDocumentMoniker": "Models\\Habitante.cs",
+              "ToolTip": "C:\\Users\\ASUS R7\\source\\repos\\Sexto_om27\\Provincias\\Models\\Habitante.cs",
+              "RelativeToolTip": "Models\\Habitante.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAABBwA8AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-13T01:25:44.508Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HabitanteController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS R7\\source\\repos\\Sexto_om27\\Provincias\\Controllers\\HabitanteController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HabitanteController.cs",
+              "ToolTip": "C:\\Users\\ASUS R7\\source\\repos\\Sexto_om27\\Provincias\\Controllers\\HabitanteController.cs",
+              "RelativeToolTip": "Controllers\\HabitanteController.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAWwDoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-13T00:52:28.774Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS R7\\source\\repos\\Sexto_om27\\Provincias\\Views\\Habitante\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Habitante\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ASUS R7\\source\\repos\\Sexto_om27\\Provincias\\Views\\Habitante\\Create.cshtml",
+              "RelativeToolTip": "Views\\Habitante\\Create.cshtml",
+              "ViewState": "AgIAAB8AAAAAAAAAAIBJwDwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-13T00:51:52.634Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

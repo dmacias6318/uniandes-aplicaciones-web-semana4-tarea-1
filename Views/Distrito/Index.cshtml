@@ -1,0 +1,17 @@
+@model IEnumerable<Provincias.Models.Distrito>
+@{ ViewData["Title"] = "Distritos"; }
+<h1>Distritos</h1>
+<p><a class="btn btn-success" asp-action="Create">Nuevo distrito</a></p>
+<table class="table">
+    <thead><tr><th>Nombre</th><th>Código postal</th><th>Área (km²)</th><th>Población</th><th>Cantón</th><th>Provincia</th><th></th></tr></thead>
+    <tbody>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.Nombre</td><td>@item.CodigoPostal</td><td>@item.AreaKm2</td><td>@item.Poblacion</td>
+            <td>@item.Canton.Nombre</td><td>@item.Canton.Provincia.Nombre</td>
+            <td><a asp-action="Edit" asp-route-id="@item.Id">Editar</a> | <a asp-action="Details" asp-route-id="@item.Id">Detalles</a> | <a asp-action="Delete" asp-route-id="@item.Id">Eliminar</a></td>
+        </tr>
+    }
+    </tbody>
+</table>

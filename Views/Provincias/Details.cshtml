@@ -1,0 +1,41 @@
+@model Provincias.Models.Provincia
+
+@{
+    ViewData["Title"] = "Detalles de Provincia";
+}
+
+<h1>Detalles de Provincia</h1>
+
+<div>
+    <dl class="row">
+        <dt class="col-sm-2">@Html.DisplayNameFor(model => model.Nombre)</dt>
+        <dd class="col-sm-10">@Html.DisplayFor(model => model.Nombre)</dd>
+        <dt class="col-sm-2">@Html.DisplayNameFor(model => model.Capital)</dt>
+        <dd class="col-sm-10">@Html.DisplayFor(model => model.Capital)</dd>
+        <dt class="col-sm-2">Extensión</dt>
+        <dd class="col-sm-10">@Html.DisplayFor(model => model.Extension)</dd>
+        <dt class="col-sm-2">@Html.DisplayNameFor(model => model.Numero_Cantones)</dt>
+        <dd class="col-sm-10">@Html.DisplayFor(model => model.Numero_Cantones)</dd>
+        <dt class="col-sm-2">@Html.DisplayNameFor(model => model.Poblacion)</dt>
+        <dd class="col-sm-10">@Html.DisplayFor(model => model.Poblacion)</dd>
+    </dl>
+
+    <h2>Cantones relacionados</h2>
+    @if (Model.Cantones.Count == 0)
+    {
+        <p>Esta provincia todavía no tiene cantones registrados.</p>
+    }
+    else
+    {
+        <ul>
+            @foreach (var canton in Model.Cantones.OrderBy(c => c.Nombre))
+            {
+                <li><a asp-controller="Canton" asp-action="Details" asp-route-id="@canton.Id">@canton.Nombre</a></li>
+            }
+        </ul>
+    }
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.Id">Editar</a> |
+    <a asp-action="Index">Volver a la lista</a>
+</div>

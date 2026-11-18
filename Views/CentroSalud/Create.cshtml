@@ -1,0 +1,16 @@
+@model Provincias.Models.CentroSalud
+@{ ViewData["Title"] = "Nuevo centro de salud"; }
+<h1>Nuevo centro de salud</h1>
+<hr />
+<div class="row"><div class="col-md-6">
+    <form asp-action="Create">
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+        <div class="mb-3"><label asp-for="Nombre" class="form-label"></label><input asp-for="Nombre" class="form-control" /><span asp-validation-for="Nombre" class="text-danger"></span></div>
+        <div class="mb-3"><label asp-for="Tipo" class="form-label"></label><input asp-for="Tipo" class="form-control" /><span asp-validation-for="Tipo" class="text-danger"></span></div>
+        <div class="mb-3"><label asp-for="Telefono" class="form-label"></label><input asp-for="Telefono" class="form-control" /><span asp-validation-for="Telefono" class="text-danger"></span></div>
+        <div class="mb-3"><label asp-for="Direccion" class="form-label"></label><input asp-for="Direccion" class="form-control" /><span asp-validation-for="Direccion" class="text-danger"></span></div>
+        <div class="mb-3"><label asp-for="DistritoId" class="form-label"></label><select asp-for="DistritoId" asp-items="ViewBag.Distritos" class="form-select"><option value="">-- Seleccione un distrito --</option></select><span asp-validation-for="DistritoId" class="text-danger"></span></div>
+        <button type="submit" class="btn btn-primary">Guardar</button> <a asp-action="Index" class="btn btn-secondary">Cancelar</a>
+    </form>
+</div></div>
+@section Scripts { @{ await Html.RenderPartialAsync("_ValidationScriptsPartial"); } }

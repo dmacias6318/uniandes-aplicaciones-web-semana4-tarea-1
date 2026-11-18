@@ -1,0 +1,13 @@
+@model Provincias.Models.Distrito
+@{ ViewData["Title"] = "Eliminar distrito"; }
+<h1>Eliminar distrito</h1>
+<h3>¿Confirma que desea eliminar este distrito?</h3>
+<dl class="row">
+    <dt class="col-sm-2">@Html.DisplayNameFor(m => m.Nombre)</dt><dd class="col-sm-10">@Model.Nombre</dd>
+    <dt class="col-sm-2">@Html.DisplayNameFor(m => m.CodigoPostal)</dt><dd class="col-sm-10">@Model.CodigoPostal</dd>
+    <dt class="col-sm-2">@Html.DisplayNameFor(m => m.AreaKm2)</dt><dd class="col-sm-10">@Model.AreaKm2</dd>
+    <dt class="col-sm-2">@Html.DisplayNameFor(m => m.Poblacion)</dt><dd class="col-sm-10">@Model.Poblacion</dd>
+    <dt class="col-sm-2">Cantón</dt><dd class="col-sm-10">@Model.Canton.Nombre</dd>
+    <dt class="col-sm-2">Provincia</dt><dd class="col-sm-10">@Model.Canton.Provincia.Nombre</dd>
+</dl>
+<form asp-action="Delete"><input type="hidden" asp-for="Id" /><button type="submit" class="btn btn-danger">Eliminar</button> <a asp-action="Index" class="btn btn-secondary">Cancelar</a></form>

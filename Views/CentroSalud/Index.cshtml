@@ -1,0 +1,16 @@
+@model IEnumerable<Provincias.Models.CentroSalud>
+@{ ViewData["Title"] = "Centros de salud"; }
+<h1>Centros de salud</h1>
+<p><a class="btn btn-success" asp-action="Create">Nuevo centro de salud</a></p>
+<table class="table">
+    <thead><tr><th>Nombre</th><th>Tipo</th><th>Teléfono</th><th>Dirección</th><th>Distrito</th><th>Cantón</th><th></th></tr></thead>
+    <tbody>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.Nombre</td><td>@item.Tipo</td><td>@item.Telefono</td><td>@item.Direccion</td><td>@item.Distrito.Nombre</td><td>@item.Distrito.Canton.Nombre</td>
+            <td><a asp-action="Edit" asp-route-id="@item.Id">Editar</a> | <a asp-action="Details" asp-route-id="@item.Id">Detalles</a> | <a asp-action="Delete" asp-route-id="@item.Id">Eliminar</a></td>
+        </tr>
+    }
+    </tbody>
+</table>

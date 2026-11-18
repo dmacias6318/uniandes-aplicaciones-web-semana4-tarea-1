@@ -1,0 +1,17 @@
+@model Provincias.Models.Distrito
+@{ ViewData["Title"] = "Editar distrito"; }
+<h1>Editar distrito</h1>
+<hr />
+<div class="row"><div class="col-md-6">
+    <form asp-action="Edit">
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+        <input type="hidden" asp-for="Id" />
+        <div class="mb-3"><label asp-for="Nombre" class="form-label"></label><input asp-for="Nombre" class="form-control" /><span asp-validation-for="Nombre" class="text-danger"></span></div>
+        <div class="mb-3"><label asp-for="CodigoPostal" class="form-label"></label><input asp-for="CodigoPostal" class="form-control" /><span asp-validation-for="CodigoPostal" class="text-danger"></span></div>
+        <div class="mb-3"><label asp-for="AreaKm2" class="form-label"></label><input asp-for="AreaKm2" class="form-control" /><span asp-validation-for="AreaKm2" class="text-danger"></span></div>
+        <div class="mb-3"><label asp-for="Poblacion" class="form-label"></label><input asp-for="Poblacion" class="form-control" /><span asp-validation-for="Poblacion" class="text-danger"></span></div>
+        <div class="mb-3"><label asp-for="CantonId" class="form-label"></label><select asp-for="CantonId" asp-items="ViewBag.Cantones" class="form-select"><option value="">-- Seleccione un cantón --</option></select><span asp-validation-for="CantonId" class="text-danger"></span></div>
+        <button type="submit" class="btn btn-primary">Guardar</button> <a asp-action="Index" class="btn btn-secondary">Cancelar</a>
+    </form>
+</div></div>
+@section Scripts { @{ await Html.RenderPartialAsync("_ValidationScriptsPartial"); } }
